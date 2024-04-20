@@ -8,5 +8,5 @@
 5. Extensive and Aesthetic Mobile and Desktop view
 ![Screenshot 1](img/Picture1.png)
 ![Screenshot 2](img/Picture2.png)
-![Screenshot 3](img/Screenshot_2024-04-20_155229.png)
+
 
