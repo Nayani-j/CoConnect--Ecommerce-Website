@@ -7,3 +7,6 @@
 4. Newsletter
 5. Extensive and Aesthetic Mobile and Desktop view
 ![Screenshot 1](img/Picture1.png)
+![Screenshot 2](img/Picture2.png)
+![Screenshot 3](img/Screenshot 2024-04-20 154652.png)
+
