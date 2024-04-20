@@ -6,3 +6,4 @@
 3. Signup
 4. Newsletter
 5. Extensive and Aesthetic Mobile and Desktop view
+![Screenshot 1](img/Picture1.png)
